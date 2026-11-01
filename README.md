@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yazdan Motaghi 👋
 
-<!--
-**yazdanmotaghi/yazdanmotaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Medical Laboratory Sciences | Aspiring Bioinformatics Researcher
 
-Here are some ideas to get you started:
+I have a background in Medical Laboratory Sciences and a strong interest in bioinformatics, cancer genomics, and precision medicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am developing my skills in computational genomics and exploring how genomic data analysis can contribute to understanding cancer biology and personalized medicine.
+
+### 🔬 Research Interests
+- Cancer Genomics
+- Bioinformatics & Computational Biology
+- RNA-seq Data Analysis
+- Pharmacogenomics
+- Precision Medicine
+
+### 🛠️ Tools & Technologies
+- R
+- Linux
+- Bioconductor
+- TCGAbiolinks
+- DESeq2
+- Git & GitHub
+
+### 📂 Featured Projects
+- [TCGA-BRCA](https://github.com/yazdanmotaghi/TCGA-BRCA) – Breast Cancer Genomics Analysis
+
+### 🎯 Current Focus
+Building practical bioinformatics projects and strengthening my knowledge of genomic data analysis.
+
