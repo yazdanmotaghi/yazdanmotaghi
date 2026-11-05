@@ -1,4 +1,4 @@
-# Hi, I'm Yazdan Motaghi 👋
+# Hi, I'm Yazdan Mottaghi 👋
 
 ### Medical Laboratory Sciences | Aspiring Bioinformatics Researcher
 
